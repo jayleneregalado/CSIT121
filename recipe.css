@@ -1,0 +1,17 @@
+body {background-color:#fff0f5;
+  color:#db7093
+  }
+h1 {font-family Arial, Verdana, Sans-serif;
+color:darkred;
+  font-size:2em;
+  text-transform:uppercase;
+}
+h2 {font-family Arial, Verdana, Sans-serif}
+p{
+  margin:25px;
+}
+a{
+  margin:25px;
+}
+li {margin:25px;
+}
