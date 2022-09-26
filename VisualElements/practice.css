@@ -1,0 +1,7 @@
+#peruflag {
+width:350px;
+  height:350px;
+  border: 2px dotted #330000;
+  border-radius: 11px;
+  color: hsla(360, 100%, 50%, 1.0);
+}
