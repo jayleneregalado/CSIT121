@@ -1,0 +1,53 @@
+body {background-color:#fff0f5;
+  color:#db7093;
+  background-image: radial-gradient(white,#dfc7d0)
+  }
+h1 {font-family:Arial, Verdana, Sans-serif;
+color:darkred;
+  font-size:2em;
+  text-transform:uppercase;
+}
+h2 {font-family:Arial, Verdana, Sans-serif}
+p{
+  margin:25px;
+  font-family:Arial, Verdana, sans-serif;
+}
+a{
+  margin:25px;
+}
+li {margin:25px;
+  font-family:Arial, Verdana, sans-serif;
+}
+.main {
+  background-color:white;
+  color:darkred;
+}
+.red {
+background-color:#fff0f5;
+  color:red
+}
+#dark {
+  color:darkred;
+}
+#wrapper{
+margin-left: auto;
+margin-right: auto;
+width: 80%;
+}
+#ing{
+float: left;
+width: 200px;
+padding: 5px;
+}
+#ins{
+margin-left: 300px;
+padding: 5px;
+}
+nav a{
+text-decoration: none;
+padding: 3px;
+font-weight: bold;
+}
+nav a:link {color: black;}
+nav a:visited {color: purple;}
+nav a:hover {color: white;}
